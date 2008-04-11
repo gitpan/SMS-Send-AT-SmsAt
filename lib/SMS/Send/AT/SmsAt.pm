@@ -8,7 +8,7 @@ use XML::XPath;
 use XML::Writer;
 use SMS::Send::Driver;
 
-use version; our $VERSION = qv('0.0.3');
+use version; our $VERSION = qv('0.0.4');
 
 use base 'SMS::Send::Driver';
 
